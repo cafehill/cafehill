@@ -1,0 +1,9 @@
+# Private / coursework files - never publish these
+*.docx
+*.pdf
+student details.jpeg
+~$*
+
+# OS noise
+.DS_Store
+Thumbs.db
