@@ -5,7 +5,7 @@ African fusion meals, cooked fresh daily on the Makerere University Business Sch
 | | |
 |---|---|
 | Website | https://cafehill.co.ug |
-| Order on WhatsApp | +256 751 000 300 |
+| Order on WhatsApp | +256 706 769 021 |
 | Email | info@cafehill.co.ug |
 | Location | MUBS campus, Nakawa, Kampala |
 | Menu | 17 items, UGX 3,000 - 50,000 |
